@@ -9,7 +9,7 @@
 <!-- PROFILE VIEWS & SOCIAL BADGES -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Naghulpranav01&label=Profile%20Views&color=00f5c4&style=flat-square" alt="profile views"/>
-  <a href="mailto:nr5344@srmist.edu.in"><img src="https://img.shields.io/badge/Email-nr5344%40srmist.edu.in-00f5c4?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:nr5344@srmist.edu.in"><img src="https://img.shields.io/badge/Email-naghul695@gmail.com-00f5c4?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/naghul-pranav"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin"/></a>
   <img src="https://img.shields.io/badge/Location-Chennai%2C%20Tamil%20Nadu-ff6b6b?style=flat-square&logo=googlemaps&logoColor=white"/>
 </p>
