@@ -27,8 +27,8 @@ class NaghulPranav:
         self.degree      = "B.Tech CSE @ SRMIST Kattankulathur (2023–2027)"
         self.cgpa        = 8.64
         self.location    = "Chennai, Tamil Nadu 🇮🇳"
-        self.phone       = "+91 6380190811"
-        self.email       = "nr5344@srmist.edu.in"
+        
+        self.email       = "naghul695@gmail.com"
 
         self.domains     = ["Full Stack", "AI/ML", "Cloud Computing",
                             "Cybersecurity", "IoT", "UI/UX", "Research"]
