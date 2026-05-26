@@ -53,7 +53,7 @@ me.say_hi()
 
 | 📄 Publications | 💼 Internships | 🚀 Projects | 🎖 Certifications |
 |:-:|:-:|:-:|:-:|
-| **6** (4 Published + 2 Upcoming) | **6** Organizations | **12+** Built | **9+** Earned |
+| **7** (4 Published + 3 Upcoming) | **6** Organizations | **12+** Built | **9+** Earned |
 
 </div>
 
