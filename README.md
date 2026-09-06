@@ -25,7 +25,7 @@ class NaghulPranav:
     def __init__(self):
         self.name        = "Naghul Pranav K R"
         self.degree      = "B.Tech CSE @ SRMIST Kattankulathur (2023–2027)"
-        self.cgpa        = 8.64
+        self.cgpa        = 8.7
         self.location    = "Chennai, Tamil Nadu 🇮🇳"
         
         self.email       = "naghul695@gmail.com"
